@@ -3,7 +3,7 @@ import codecs
 import os
 
 
-VERSION = '0.0.4'
+VERSION = '0.0.5'
 DESCRIPTION = 'a API Wrapper for EcoleDirecte.fr'
 
 # Setting up
@@ -15,6 +15,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=codecs.open('README.md', 'r', 'utf-8').read(),
+    url='https://github.com/germaindk/EcoleDirectePy',
     packages=find_packages(),
     install_requires=['requests'],
     keywords=['python', 'ecoledirecte', 'api', 'Wrapper'],

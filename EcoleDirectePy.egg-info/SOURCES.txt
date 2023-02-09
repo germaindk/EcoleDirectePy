@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-EcoleDirectePy/__init__.py
-EcoleDirectePy.egg-info/PKG-INFO
-EcoleDirectePy.egg-info/SOURCES.txt
-EcoleDirectePy.egg-info/dependency_links.txt
-EcoleDirectePy.egg-info/requires.txt
-EcoleDirectePy.egg-info/top_level.txt
